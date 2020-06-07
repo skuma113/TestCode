@@ -13,3 +13,7 @@ output+=$stuff
 done
 echo -e "${output[@]}"
 
+
+echo $bash
+echo $BASH
+echo $HOME
