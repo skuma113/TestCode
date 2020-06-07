@@ -17,3 +17,4 @@ echo -e "${output[@]}"
 echo $bash
 echo $BASH
 echo $HOME
+echo $BASH_Version
