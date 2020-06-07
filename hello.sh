@@ -18,3 +18,10 @@ echo $bash
 echo $BASH
 echo $HOME
 echo $BASH_Version
+
+#Iskae nichae ab naya command read command
+
+echo "Nam batao"
+read nam
+echo "acha toh tum ho $nam"
+
